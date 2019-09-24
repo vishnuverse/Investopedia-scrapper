@@ -1,2 +1,2 @@
 # Investopedia-scrapper
-Scrapper Terms and Definitions from investopedia using Beautiful Soup
+Scrapping Terms and Definitions from investopedia using Beautiful Soup for insurance corpus
